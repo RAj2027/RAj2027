@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=900&size=40&pause=1000&color=F7BF30&center=true&vCenter=true&random=false&width=435&lines=Hi+there!🤝+;I'm++RAj!😃" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Coding: where creativity meets logic in lines of text.</h3>
-<img align="right" alt="CODER" width="270" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="CODER" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2027&label=Profile%20views&color=0e75b6&style=flat" alt="raj2027" /> </p>
 
 - 🔭 I’m currently working on **a Landing Page**
