@@ -18,8 +18,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.behance.net/raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sketchyfunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sketchyfunk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raj bardhan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj bardhan singh" height="30" width="40" /></a>
+<a href="https://instagram.com/@_notxpected" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_notxpected" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
