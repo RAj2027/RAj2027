@@ -1,4 +1,4 @@
-![Banner](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ4NDg1NDUsIm5iZiI6MTcxNDg0ODI0NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDE4NDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4NmIwZWUzMTg0YjI1OTA2MjA3MGQ2NWJiZGMyODMwOTgxOWQ2ZGE0ODZkNDZjOTVjYWQ5ZWU5NDM1YWE5YTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a7BO2IrpiopnLn7GpTsr8hk2nfiBg385NGlLkh1G_Es)
+![banner](https://github.com/user-attachments/assets/28e3c94a-f22b-44b0-9702-2431ab962453)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=900&size=40&pause=1000&color=F7BF30&center=true&vCenter=true&random=false&width=435&lines=Hi+there!🤝+;I'm++RAj!😃" alt="Typing SVG" /></a>
 </h1>
@@ -21,13 +21,14 @@
 <a href="https://linkedin.com/in/raj bardhan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj bardhan singh" height="30" width="40" /></a>
 <a href="https://instagram.com/@_notxpected" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_notxpected" height="30" width="40" /></a>
 </p>
-<hr>
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-<hr>
-
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj2027&show_icons=true&locale=en&layout=compact" alt="raj2027" /></p>
+<img src="https://github.com/user-attachments/assets/6cf7dd9d-70ab-4fb3-a106-1f32a35863af" align="right" width="200px">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2027&show_icons=true&locale=en" alt="raj2027" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2027&" alt="raj2027" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF" width="1000px" >
