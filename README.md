@@ -6,13 +6,13 @@
 <img align="right" alt="CODER" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2027&label=Profile%20views&color=0e75b6&style=flat" alt="raj2027" /> </p>
 
-- 🔭 I’m currently working on **Responsive Landing Pages**
+- 🔭 I’m currently working on **Responsive Web Pages**
 
 - 🌱 I’m currently learning **HTML, CSS, C, C++**
 
 - 👯 I’m looking to collaborate on **Website design and development**
 
-- 📫 How to reach me **rtistic20207teen@gmail.com**
+- 📫 Reach me at : @_notxpected
 
 - ⚡ Fun fact **The average smartphone today has more computing power than the computers used for the Apollo 11 moon landing in 1969.**
 
