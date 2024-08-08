@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Responsive Web Pages**
 
-- 🌱 I’m currently learning **HTML, CSS, C, C++**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Website design and development**
+- 👯 I’m looking to collaborate on **Webpage**
 
 - 📫 Reach me at : @_notxpected
 
