@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Webpage**
-
 - 📫 Reach me at : @_notxpected
 
 - ⚡ Fun fact **The average smartphone today has more computing power than the computers used for the Apollo 11 moon landing in 1969.**
