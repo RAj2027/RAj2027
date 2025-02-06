@@ -55,6 +55,7 @@
 
 
 ###
+<img src="https://github.com/RAj2027/RAj2027/blob/output/github-snake-dark.svg" width="1200px">
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF" width="800px" ></div>
 
