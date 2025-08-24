@@ -6,9 +6,9 @@
 <img align="right" alt="CODER" width="220" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2027&label=Profile%20views&color=0e75b6&style=flat" alt="raj2027" /> </p>
 
-- 🔭 I’m currently working on **Responsive Web Pages**
+- 🔭 I’m currently Learning about **Ecommerce Websites**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently working with **JavaScript**
 
 - 📫 Reach me at : @_notxpected
 
