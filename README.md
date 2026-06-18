@@ -4,20 +4,20 @@
 </h1>
 <h3 align="center">Coding: where creativity meets logic in lines of text.</h3>
 <img align="right" alt="CODER" width="220" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj2027&label=Profile%20views&color=0e75b6&style=flat" alt="raj2027" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RAj2027&label=Profile%20views&color=0e75b6&style=flat" alt="RAj2027" /> </p>
 
-- 🔭 I’m currently Learning about **Ecommerce Websites**
+- 🔭 I'm currently working with **React.js** — building dynamic UIs and modern web apps
 
-- 🌱 I’m currently working with **JavaScript**
+- 🌱 I'm deepening my skills in **JavaScript** — DOM, APIs, and beyond
 
-- 📫 Reach me at : @_notxpected
+- 📫 Reach me at : [@me_artzzy](https://www.instagram.com/me_artzzy?igsh=enJ0cGVteXJrZTl5)
 
 - ⚡ Fun fact **The average smartphone today has more computing power than the computers used for the Apollo 11 moon landing in 1969.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/raj bardhan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj bardhan singh" height="30" width="40" /></a>
-<a href="https://instagram.com/@_notxpected" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_notxpected" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raj-bardhan-singh-4o4/?skipRedirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj bardhan singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/me_artzzy?igsh=enJ0cGVteXJrZTl5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_artzzy" height="30" width="40" /></a>
 </p>
 <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 <h3 align="center">Languages and Tools:</h3>
@@ -41,6 +41,14 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
 </div>
 
 ###
@@ -55,7 +63,6 @@
 
 
 ###
-<img src="https://github.com/RAj2027/RAj2027/blob/output/github-snake-dark.svg" width="1200px">
+<img src="https://raw.githubusercontent.com/RAj2027/RAj2027/output/github-snake-dark.svg" width="1200px">
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF" width="800px" ></div>
-
